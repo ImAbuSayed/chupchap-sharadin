@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chupchap-sharadin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Chupchap Sharadin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chupchap-sharadin/) |
+| **Get License** | [Music Rights & Licensing for Chupchap Sharadin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chupchap-sharadin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> চুপচাপ সারাদিন কাটে শুধু ভাবনায়
+> অচেনা এই মায়াতে মন তোমাকেই চায়
+> আলো আর ছায়াতে খুঁজি তোমার ঐ মুখ
+> তোমারই উষ্ণতায় আমার যতো সুখ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
