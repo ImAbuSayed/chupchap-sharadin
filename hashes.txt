@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chupchap Sharadin
+
+This log tracks the cryptographic history and versioning for the song **Chupchap Sharadin** (chupchap-sharadin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T07:59:29.420609 | `v1` | `783fe1f0de0bf3ad518be708b36ff0b5019db42c4e2640754e1a882e65ed50d3` | `9f31de22eb3d3a51b96163583b03ecd739dd4f0af80393d8de2a7daf52eb45d5` | `2026-05-11_chupchap-sharadin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

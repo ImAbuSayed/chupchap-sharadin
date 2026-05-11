@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chupchap-sharadin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Chupchap Sharadin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chupchap-sharadin/) |
+| **Get License** | [Request Licensing for Chupchap Sharadin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chupchap-sharadin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `783fe1f0de0bf3ad518be708b36ff0b5019db42c4e2640754e1a882e65ed50d3` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
